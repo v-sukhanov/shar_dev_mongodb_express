@@ -1,0 +1,5 @@
+/node_modules/
+/.idea/modules.xml
+/.idea/shar_dev_mongodb_express.iml
+/.idea/vcs.xml
+/.idea/.gitignore
